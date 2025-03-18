@@ -2,5 +2,8 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.3",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"Windows"
+	]
 }
